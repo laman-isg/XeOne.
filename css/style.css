@@ -188,6 +188,7 @@ section.features {
     border-radius: 30px;
     color: aliceblue;
     text-align: center;
+    cursor: pointer;
 }
 .info .text {
     min-width: 100px;
